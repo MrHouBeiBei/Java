@@ -7,7 +7,7 @@ import java.text.ParseException;
 /**
  * 测试data ParseException
  */
-public class TestData {
+public class TestDate {
     public static void main(String[] args) {
         TestSDF testSDF = new TestSDF();
         try {
